@@ -1,3 +1,3 @@
 # linuxsetup
 Installs some stuff that you choose  
-run "wget https://github.com/bit-turtle/linuxsetup/setup.sh | bash"
+run "wget https://raw.githubusercontent.com/bit-turtle/linuxsetup/main/setup.sh | bash"
