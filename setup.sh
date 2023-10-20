@@ -9,12 +9,16 @@ confirm() {
 	then
 		return 0 #Yes
 	elif [ $input == "y" ]
+ 	then
 		return 0 #Yes
 	elif [ $input == "Yes" ]
+ 	then
 		return 0 #Yes
 	elif [ $input == "yes" ]
+ 	then
 		return 0 #Yes
 	elif [ $input == "YES" ]
+ 	then
 		return 0 #Yes
 	else
 		return 1 #No
